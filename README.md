@@ -71,7 +71,6 @@
 
 ---
 
-## 🧠 Quote
 <p align="center">
 "Consistency beats talent when talent doesn't work hard."
 </p>
