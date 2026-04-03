@@ -31,17 +31,10 @@
 
 ---
 
-## 📜 Certifications
-- 🤖 IBM SkillsBuild – Artificial Intelligence  
-- 🚀 Build with AI 2026 – GDG  
-- 💻 Python Full Stack Internship – AICTE  
-
----
-
 ## 🛠️ Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=c,js,html,css,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=c,html,css,js,python,git,github,vscode" />
 </p>
 
 ---
