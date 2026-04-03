@@ -25,8 +25,9 @@
 
 ✔️ Worked on:
 - 🌐 HTML, CSS, JavaScript  
-- ©️ C Language
-- 🔧 Git & GitHub  
+- 🐍 Python & Django  
+- 🗄️ SQL Database  
+- 🔧 Git & GitHub   
 
 ---
 
